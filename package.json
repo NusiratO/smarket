@@ -12,6 +12,10 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.11.2",
     "@react-navigation/native": "^5.8.10",
+<<<<<<< HEAD
+=======
+    "@react-navigation/stack": "^5.12.8",
+>>>>>>> 6cbcc7ec62a50c5ab8c476f39f6916dd1d3db14c
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
     "react": "16.13.1",
